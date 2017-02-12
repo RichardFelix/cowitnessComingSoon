@@ -44,6 +44,14 @@ body{
   width: 100vw;
 }
 
+@media (max-width: 414px){
+  .logo{
+    width: 95%;
+    left: 2%;
+    top: 2%;
+  }
+}
+
 /************************
         Info
 ************************/
